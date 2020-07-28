@@ -78,24 +78,3 @@ def plate_detection(path,img=None):
         print(text)
 
     return text
-
-
-plate_detection("objects/0_licensed_car10.jpg")
-cv2.waitKey(0)
-
-# plate_detection("objects/0_licensed_car15.jpg")
-# cv2.waitKey(0)
-# plate_detection("objects/0_licensed_car25.jpg")
-# cv2.waitKey(0)
-# plate_detection("objects/0_licensed_car86.jpg")
-# cv2.waitKey(0)
-# plate_detection("objects/0_licensed_car91.jpg")
-# cv2.waitKey(0)
-# plate_detection("objects/0_licensed_car139.jpg")
-# cv2.waitKey(0)
-# plate_detection("objects/0_licensed_car142.jpg")
-# cv2.waitKey(0)
-# plate_detection("objects/1_licensed_car75.jpg")
-        
-cv2.waitKey(0)
-cv2.destroyAllWindows()

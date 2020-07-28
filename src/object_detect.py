@@ -80,14 +80,8 @@ def extract_object(path=None , img=None) :
         h = box[3]
         ob = img[round(y):round(y+h),round(x):round(x+w)]
         objects.append([round(x),round(y),round(w),round(h)])
-        
-        # cv2.imwrite("objects/"+str(n)+'_'+path , ob)
         #draw_prediction(img, class_ids[i], confidences[i], round(x), round(y), round(x+w), round(y+h))
     
     return objects
     
     # cv2.imshow("object_detection" , img)
-
-# extract_object("licensed_car155.jpg")
-# cv2.waitKey(0)
-# cv2.destroyAllWindows()
