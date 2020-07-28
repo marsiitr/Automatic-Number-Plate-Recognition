@@ -37,8 +37,7 @@ LOGITECH WEBCAM
 | ---------------- |:--------------:|
 | Raspberry Pi     | 3830.00        |
 | Battery          | 1500.00        |
-| LOGITECH WEBCAM  | 3500.00        |
-| 
+| LOGITECH WEBCAM  | 3500.00        | 
 | Total            | 8830.00        |
 
 ## Applications
