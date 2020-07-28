@@ -80,5 +80,5 @@ def detect(mode = "video" , path=None):
         else :
             vid_detect(path)
 
-#detect("video" , "Images_and_videos/Videos/Vehicles.mp4")
-# detect("pic" , "Images_and_videos/Images/licensed_car10.jpg")
+#detect("video" , "Images and videos/Videos/Vehicles.mp4")
+# detect("pic" , "Images and videos/Images/licensed_car10.jpg")
