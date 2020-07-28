@@ -10,7 +10,7 @@ In this fast growing world, crime is increasing exponentially and that calls for
 So we took the project to design the above mentioned system, right from the source code to the body of this system.
 
 ## Workflow
-![alt text](https://github.com/kush1920/Automatic-Number-Plate-Recognition/find/master/Images and Videos/Images/workflow.png "Workflow ANPR")
+![Workflow ANPR](https://github.com/kush1920/Automatic-Number-Plate-Recognition/find/master/Images_and_Videos/Images/workflow.jpg)
 
 ## Mechanical Aspects of Design
 
