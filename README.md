@@ -18,7 +18,7 @@ So we took the project to design the above mentioned system, right from the sour
 A box with 3 sliding doors, to hold the electronic components of the system. Easy to fabricate design, without the hassle of drilling, tapering and milling. Extruded cut in the front to fit the face of camera.
 
 #### DIMENSIONS:
-BOX :    x     x     (cm)
+BOX :  17 x  11  x  10  (cm)
 
 ## Electric Aspects of Design 
 
@@ -29,16 +29,17 @@ Raspberry Pi 3B+
 LOGITECH WEBCAM 
 
 ### Battery
-9 volt battery powering the pi with Micro USB 2.0 outlet
+12 volt battery powering the pi with Micro USB 2.0 outlet
 
 ### Cost Structure
 
 | Components       | Cost(INR.)     |
 | ---------------- |:--------------:|
 | Raspberry Pi     | 3830.00        |
-| Battery          | 25.00          |
+| Battery          | 1500.00        |
 | LOGITECH WEBCAM  | 3500.00        |
-| Total            | 7355.00        |
+| 
+| Total            | 8830.00        |
 
 ## Applications
 
@@ -66,5 +67,9 @@ Reduction in size of camera and microprocessor can save space .
 
 ## Mentors
 1. Rishika Chandra
+
+## NOTE
+
+DOWNLOAD YOLO WEIGHTS FROM [HERE](https://drive.google.com/file/d/1YZuTmP-c4b07z5mfhOAtP_V_oymP5_xG/view?usp=sharing)
 
 ## Refernces 
