@@ -31,7 +31,7 @@ LOGITECH WEBCAM
 ### Battery
 12 volt battery powering the pi with Micro USB 2.0 outlet
 
-### Cost Structure
+## Cost Structure
 
 | Components       | Cost(INR.)     |
 | ---------------- |:--------------:|
