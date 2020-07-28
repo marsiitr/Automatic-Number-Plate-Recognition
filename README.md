@@ -3,14 +3,14 @@ Srishti 2020
 
 ## ABSTRACT
 Automatic Numper Plate Recognition system is a python based utility that captures live traffic, detects number plate of the oncoming vehicles and stores the data into a database.
-![ANPR](/Images and Videos/anpr.jpg)
+![ANPR](https://github.com/kush1920/Automatic-Number-Plate-Recognition/blob/master/Images%20and%20Videos/Images/anpr.jpg)
 ## MOTIVATION
 In this fast growing world, crime is increasing exponentially and that calls for better security and survellience in many sensitive and crowded areas like Colleges, Malls etc. Before the emergence of AI, record keeping had to be done manually which led to many human errors, and eventually led to security lapses. With the resources now at our hands, programs like ANPR become a necesity for the greater good of society.
 
 So we took the project to design the above mentioned system, right from the source code to the body of this system.
 
 ## Workflow
-![Workflow ANPR](/Images and Videos/workflow.jpg)
+![Workflow ANPR](https://github.com/kush1920/Automatic-Number-Plate-Recognition/blob/master/Images%20and%20Videos/Images/workflow.jpg)
 
 ## Mechanical Aspects of Design
 
@@ -61,11 +61,11 @@ Developments in ML and DL can give more precise and accurate outputs .
 Reduction in size of camera and microprocessor can save space .
 
 ## Team Members 
-1. Atharva Karanjgaokar
-2. Kushagra Babbar
+1. [Atharva Karanjgaokar](https://github.com/atharva2702)
+2. [Kushagra Babbar](https://github.com/kush1920)
 
 ## Mentors
-1. Rishika Chandra
+1. [Rishika Chandra](https://github.com/chandrarishika14)
 
 ## NOTE
 
