@@ -1,0 +1,7 @@
+Dear ${PERSON_NAME}, 
+
+YOUR Vehicle (NO :$VEHICLE_NO ) has just entered BUILDING_NAME . You have to pay a fine of Rs 100 as a tax for using our parking facility .
+
+PAY THROUGH BANK OR AT OUR FACILITY .
+
+!!! This is a computer generated email . PLEASE DO not reply !!!
