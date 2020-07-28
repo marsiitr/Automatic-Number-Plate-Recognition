@@ -73,3 +73,11 @@ Reduction in size of camera and microprocessor can save space .
 DOWNLOAD YOLO WEIGHTS FROM [HERE](https://drive.google.com/file/d/1YZuTmP-c4b07z5mfhOAtP_V_oymP5_xG/view?usp=sharing)
 
 ## Refernces 
+
+Opencv - https://www.youtube.com/playlist?list=PLvVx8lH-gGeC8XmmrsG855usswhwt5Tr1
+
+Yolo object dtection - https://pjreddie.com/darknet/yolo/
+
+Pytessercat - https://www.pyimagesearch.com/2017/07/10/using-tesseract-ocr-python/
+
+Object tracking - https://www.learnopencv.com/object-tracking-using-opencv-cpp-python/
