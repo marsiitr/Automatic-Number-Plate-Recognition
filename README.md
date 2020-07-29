@@ -14,7 +14,7 @@ So we took the project to design the above mentioned system, right from the sour
 
 ## Mechanical Aspects of Design
 
-### Structure
+* Structure
 A box with 3 sliding doors, to hold the electronic components of the system. Easy to fabricate design, without the hassle of drilling, tapering and milling. Extruded cut in the front to fit the face of camera.
 
 #### DIMENSIONS:
