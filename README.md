@@ -43,24 +43,19 @@ LOGITECH WEBCAM
 ## Applications
 
 - Shopping Malls : To keep a record of vehicles entering
-
 - Toll Plaza : On highways for security reasons 
-
 - Parking Plazas : To detect and generate tax for parked vehicles automatically
-
 - Educational or Government Institutions : To ensure only authorized vehicles are permitted inside 
 
 ## Limitations
 
-- Restrictions on Camera's Field Of View , Resolution an Frame Rate .
-
-- A better OCR trained on strong GPU's will give better results .
+- Restrictions on Camera's Field Of View , Resolution an Frame Rate 
+- A better OCR trained on strong GPU's will give better results 
 
 ## Future Improvement 
 
-- Developments in ML and DL can give more precise and accurate outputs .
-
-- Reduction in size of camera and microprocessor can save space .
+- Developments in ML and DL can give more precise and accurate outputs 
+- Reduction in size of camera and microprocessor can save space 
 
 ## Team Members 
 1. Atharva Karanjgaokar
