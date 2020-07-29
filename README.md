@@ -10,7 +10,7 @@ In this fast growing world, crime is increasing exponentially and that calls for
 So we took the project to design the above mentioned system, right from the source code to the body of this system.
 
 ## Workflow
-![Workflow ANPR](/Images and Videos/Images/workflow.jpg)
+![Workflow ANPR](https://github.com/atharva2702/Automatic-Number-Plate-Recognition/blob/master/Images%20and%20Videos/Images/flowchart.jpeg)
 
 ## Mechanical Aspects of Design
 
@@ -22,7 +22,7 @@ BOX :  17 x  11  x  10  (cm)
 
 * Model
 
-![Model](/Images and Videos/Images/CAD2.png)
+![Model](https://github.com/atharva2702/Automatic-Number-Plate-Recognition/blob/master/Images%20and%20Videos/Images/CAD2.png)
 
 ## Electric Aspects of Design 
 
