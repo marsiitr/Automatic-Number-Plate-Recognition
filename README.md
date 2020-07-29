@@ -17,19 +17,19 @@ So we took the project to design the above mentioned system, right from the sour
 * Structure
 A box with 3 sliding doors, to hold the electronic components of the system. Easy to fabricate design, without the hassle of drilling, tapering and milling. Extruded cut in the front to fit the face of camera.
 
-#### DIMENSIONS:
+* DIMENSIONS:
 BOX :  17 x  11  x  10  (cm)
 Model
 ![Model](https://github.com/kush1920/Automatic-Number-Plate-Recognition/blob/master/Mechanical%20Design/CAD5.jpeg)
 ## Electric Aspects of Design 
 
-### Microcontroller
+* Microcontroller
 Raspberry Pi 3B+ 
 
-### Camera
+* Camera
 LOGITECH WEBCAM 
 
-### Battery
+* Battery
 12 volt battery powering the pi with Micro USB 2.0 outlet
 
 ## Cost Structure
@@ -43,20 +43,20 @@ LOGITECH WEBCAM
 
 ## Applications
 
-Shopping Malls : To keep a record of vehicles entering
-Toll Plaza : On highways for security reasons 
-Parking Plazas : To detect and generate tax for parked vehicles automatically
-Educational or Government Institutions : To ensure only authorized vehicles are permitted inside 
+-Shopping Malls : To keep a record of vehicles entering
+-Toll Plaza : On highways for security reasons 
+-Parking Plazas : To detect and generate tax for parked vehicles automatically
+-Educational or Government Institutions : To ensure only authorized vehicles are permitted inside
 
 ## Limitations
 
-Restrictions on Camera's Field Of View , Resolution an Frame Rate .
-A better OCR trained on strong GPU's will give better results .
+-Restrictions on Camera's Field Of View , Resolution an Frame Rate .
+-A better OCR trained on strong GPU's will give better results .
 
 ## Future Improvement 
 
-Developments in ML and DL can give more precise and accurate outputs .
-Reduction in size of camera and microprocessor can save space .
+-Developments in ML and DL can give more precise and accurate outputs .
+-Reduction in size of camera and microprocessor can save space .
 
 ## Team Members 
 1. [Atharva Karanjgaokar](https://github.com/atharva2702)
@@ -71,10 +71,10 @@ DOWNLOAD YOLO WEIGHTS FROM [HERE](https://drive.google.com/file/d/1YZuTmP-c4b07z
 
 ## Refernces 
 
-Opencv - https://www.youtube.com/playlist?list=PLvVx8lH-gGeC8XmmrsG855usswhwt5Tr1
+-Opencv - https://www.youtube.com/playlist?list=PLvVx8lH-gGeC8XmmrsG855usswhwt5Tr1
 
-Yolo object dtection - https://pjreddie.com/darknet/yolo/
+-Yolo object dtection - https://pjreddie.com/darknet/yolo/
 
-Pytessercat - https://www.pyimagesearch.com/2017/07/10/using-tesseract-ocr-python/
+-Pytessercat - https://www.pyimagesearch.com/2017/07/10/using-tesseract-ocr-python/
 
-Object tracking - https://www.learnopencv.com/object-tracking-using-opencv-cpp-python/
+-Object tracking - https://www.learnopencv.com/object-tracking-using-opencv-cpp-python/
