@@ -19,7 +19,8 @@ A box with 3 sliding doors, to hold the electronic components of the system. Eas
 
 #### DIMENSIONS:
 BOX :  17 x  11  x  10  (cm)
-
+Model
+![Model](https://github.com/kush1920/Automatic-Number-Plate-Recognition/blob/master/Mechanical%20Design/CAD5.jpeg)
 ## Electric Aspects of Design 
 
 ### Microcontroller
