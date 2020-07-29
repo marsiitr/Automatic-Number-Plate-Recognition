@@ -10,7 +10,7 @@ In this fast growing world, crime is increasing exponentially and that calls for
 So we took the project to design the above mentioned system, right from the source code to the body of this system.
 
 ## Workflow
-![Workflow ANPR](/src/workflow.jpg)
+![Workflow ANPR](/Images and Videos/Images/workflow.jpg)
 
 ## Mechanical Aspects of Design
 
