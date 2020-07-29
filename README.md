@@ -20,6 +20,10 @@ A box with 3 sliding doors, to hold the electronic components of the system. Eas
 * DIMENSIONS:
 BOX :  17 x  11  x  10  (cm)
 
+*Model
+
+![Model](/Images and Videos/Images/CAD2.png)
+
 ## Electric Aspects of Design 
 
 * Microcontroller
