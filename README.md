@@ -14,24 +14,24 @@ So we took the project to design the above mentioned system, right from the sour
 
 ## Mechanical Aspects of Design
 
-### Structure
+* Structure
 A box with 3 sliding doors, to hold the electronic components of the system. Easy to fabricate design, without the hassle of drilling, tapering and milling. Extruded cut in the front to fit the face of camera.
 
-#### DIMENSIONS:
+* DIMENSIONS:
 BOX :  17 x  11  x  10  (cm)
 
 ## Electric Aspects of Design 
 
-### Microcontroller
+* Microcontroller
 Raspberry Pi 3B+ 
 
-### Camera
+* Camera
 LOGITECH WEBCAM 
 
-### Battery
+* Battery
 12 volt battery powering the pi with Micro USB 2.0 outlet
 
-### Cost Structure
+## Cost Structure
 
 | Components       | Cost(INR.)     |
 | ---------------- |:--------------:|
@@ -42,23 +42,25 @@ LOGITECH WEBCAM
 
 ## Applications
 
-Shopping Malls : To keep a record of vehicles entering
+- Shopping Malls : To keep a record of vehicles entering
 
-Toll Plaza : On highways for security reasons 
+- Toll Plaza : On highways for security reasons 
 
-Parking Plazas : To detect and generate tax for parked vehicles automatically
+- Parking Plazas : To detect and generate tax for parked vehicles automatically
 
-Educational or Government Institutions : To ensure only authorized vehicles are permitted inside 
+- Educational or Government Institutions : To ensure only authorized vehicles are permitted inside 
 
 ## Limitations
 
-Restrictions on Camera's Field Of View , Resolution an Frame Rate .
-A better OCR trained on strong GPU's will give better results .
+- Restrictions on Camera's Field Of View , Resolution an Frame Rate .
+
+- A better OCR trained on strong GPU's will give better results .
 
 ## Future Improvement 
 
-Developments in ML and DL can give more precise and accurate outputs .
-Reduction in size of camera and microprocessor can save space .
+- Developments in ML and DL can give more precise and accurate outputs .
+
+- Reduction in size of camera and microprocessor can save space .
 
 ## Team Members 
 1. Atharva Karanjgaokar
