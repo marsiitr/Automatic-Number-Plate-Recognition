@@ -47,10 +47,6 @@ LOGITECH WEBCAM
 - Toll Plaza : On highways for security reasons 
 - Parking Plazas : To detect and generate tax for parked vehicles automatically
 - Educational or Government Institutions : To ensure only authorized vehicles are permitted inside 
-- Shopping Malls : To keep a record of vehicles entering
-- Toll Plaza : On highways for security reasons 
-- Parking Plazas : To detect and generate tax for parked vehicles automatically
-- Educational or Government Institutions : To ensure only authorized vehicles are permitted inside
 
 ## Limitations
 
@@ -75,10 +71,10 @@ DOWNLOAD YOLO WEIGHTS FROM [HERE](https://drive.google.com/file/d/1YZuTmP-c4b07z
 
 ## Refernces 
 
--Opencv - https://www.youtube.com/playlist?list=PLvVx8lH-gGeC8XmmrsG855usswhwt5Tr1
+- Opencv - https://www.youtube.com/playlist?list=PLvVx8lH-gGeC8XmmrsG855usswhwt5Tr1
 
--Yolo object dtection - https://pjreddie.com/darknet/yolo/
+- Yolo object dtection - https://pjreddie.com/darknet/yolo/
 
--Pytessercat - https://www.pyimagesearch.com/2017/07/10/using-tesseract-ocr-python/
+- Pytessercat - https://www.pyimagesearch.com/2017/07/10/using-tesseract-ocr-python/
 
--Object tracking - https://www.learnopencv.com/object-tracking-using-opencv-cpp-python/
+- Object tracking - https://www.learnopencv.com/object-tracking-using-opencv-cpp-python/
